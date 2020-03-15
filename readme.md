@@ -5,4 +5,5 @@
 
 - Download files
 - Download and unpack latest PHP in /php/ (for Windows)
+- Enable sockets extension (for Windows)
 - Test Client-Server connection
