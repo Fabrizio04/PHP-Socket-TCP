@@ -1,4 +1,4 @@
-﻿# Socket-TCP
+﻿# PHP-Socket-TCP
 ## Test script to create a Server Socket TCP with also Client
 
 ### Setup
