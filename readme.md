@@ -14,4 +14,4 @@
 
 ### Video
 
-[![Install and Configure Apache Kafka (SSL, SASL_SSL, Kafdrop UI + Basic Auth) [Windows & Linux]](http://img.youtube.com/vi/aTBdGxQnOHI/0.jpg)](https://youtu.be/aTBdGxQnOHI " and Configure Apache Kafka (SSL, SASL_SSL, Kafdrop UI + Basic Auth) [Windows & Linux]")
+[![Create a Server Socket TCP with Client (Windows & Linux)](http://img.youtube.com/vi/1pRYbBz1fF0/0.jpg)](https://youtu.be/1pRYbBz1fF0 "Create a Server Socket TCP with Client (Windows & Linux)")
